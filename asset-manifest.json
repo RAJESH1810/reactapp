@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.4f71e295.chunk.css",
+    "main.js": "/reactapp/static/js/main.27fe7a63.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.27fe7a63.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.60176c0b.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.60176c0b.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/reactapp/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6d4e308c.chunk.js": "/reactapp/static/js/2.6d4e308c.chunk.js",
+    "static/js/2.6d4e308c.chunk.js.map": "/reactapp/static/js/2.6d4e308c.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "precache-manifest.fbd47051530a09a5b5fa3bb69d2b548a.js": "/reactapp/precache-manifest.fbd47051530a09a5b5fa3bb69d2b548a.js",
+    "service-worker.js": "/reactapp/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/reactapp/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.4f71e295.chunk.css.map": "/reactapp/static/css/main.4f71e295.chunk.css.map",
+    "static/js/2.6d4e308c.chunk.js.LICENSE.txt": "/reactapp/static/js/2.6d4e308c.chunk.js.LICENSE.txt",
+    "static/media/about.svg": "/reactapp/static/media/about.cac3f1f0.svg",
+    "static/media/android.jpeg": "/reactapp/static/media/android.19a2e0ea.jpeg",
+    "static/media/app.jpeg": "/reactapp/static/media/app.70cea92a.jpeg",
+    "static/media/digital.jpeg": "/reactapp/static/media/digital.ac8f6f9a.jpeg",
+    "static/media/home1.svg": "/reactapp/static/media/home1.71b68fd0.svg",
+    "static/media/marketing.jpg": "/reactapp/static/media/marketing.2eed95a2.jpg",
+    "static/media/s1.jpg": "/reactapp/static/media/s1.1192a86d.jpg",
+    "static/media/software.jpeg": "/reactapp/static/media/software.43049cae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60176c0b.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6d4e308c.chunk.js",
+    "static/css/main.4f71e295.chunk.css",
+    "static/js/main.27fe7a63.chunk.js"
+  ]
+}
